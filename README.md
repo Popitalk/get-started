@@ -13,6 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://www.popitalk.com"><img src="https://avatars1.githubusercontent.com/u/25209058?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Jang</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=Andrew-Jang" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AhmedSafi97"><img src="https://avatars1.githubusercontent.com/u/50768052?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Safi</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=AhmedSafi97" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sulaiman1073"><img src="https://avatars1.githubusercontent.com/u/43919657?v=4" width="100px;" alt=""/><br /><sub><b>sulaiman1073</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=sulaiman1073" title="Code">💻</a></td>
   </tr>
 </table>
