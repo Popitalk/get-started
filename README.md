@@ -1,6 +1,6 @@
 # getting-started
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -15,6 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.popitalk.com"><img src="https://avatars1.githubusercontent.com/u/25209058?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Jang</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=Andrew-Jang" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AhmedSafi97"><img src="https://avatars1.githubusercontent.com/u/50768052?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Safi</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=AhmedSafi97" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sulaiman1073"><img src="https://avatars1.githubusercontent.com/u/43919657?v=4" width="100px;" alt=""/><br /><sub><b>sulaiman1073</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=sulaiman1073" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/silentfuzzle"><img src="https://avatars1.githubusercontent.com/u/5070376?v=4" width="100px;" alt=""/><br /><sub><b>Emily Palmieri</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=silentfuzzle" title="Code">💻</a></td>
   </tr>
 </table>
 
