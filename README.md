@@ -1,7 +1,5 @@
-# Popitalk Organization [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+# Popitalk Team [![All Contributors] <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> (https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
 
