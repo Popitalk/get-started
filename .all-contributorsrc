@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Andrew-Jang",
+      "name": "Andrew Jang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25209058?v=4",
+      "profile": "http://www.popitalk.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "getting-started",
+  "projectOwner": "Popitalk",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
