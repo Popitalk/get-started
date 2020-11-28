@@ -3,6 +3,16 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## Employees 😎
+
+Introducing our amazing Popitalk Team:
+
+<tr>
+    <td align="center"><a href="http://www.popitalk.com"><img src="https://avatars1.githubusercontent.com/u/25209058?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Jang</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=Andrew-Jang" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AhmedSafi97"><img src="https://avatars1.githubusercontent.com/u/50768052?v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Safi</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=AhmedSafi97" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/hassanannajjar"><img src="https://avatars0.githubusercontent.com/u/49004640?v=4" width="100px;" alt=""/><br /><sub><b>Hassan Al-Najjar</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=hassanannajjar" title="Code">💻</a></td>
+  <td align="center"><a href="https://gsg-g8.github.io/Ahmad-Salah-portfolio-/#sec3"><img src="https://avatars0.githubusercontent.com/u/44713857?v=4" width="100px;" alt=""/><br /><sub><b>Ahmad Salah</b></sub></a><br /><a href="https://github.com/Popitalk/getting-started/commits?author=ahmadysalah" title="Code">💻</a></td>
+</tr>
 
 ## Contributors ✨
 
